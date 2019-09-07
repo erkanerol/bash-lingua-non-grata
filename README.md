@@ -1,1 +1,3 @@
-# bash-lingua-non-grata
+# Start
+
+This is a doc which is prepared for a presentation.
