@@ -39,4 +39,10 @@ sh examples/shebang/interpreter_printer.sh
 
 Answer: Complex Behaviour. Use Shebang!
 
-https://unix.stackexchange.com/questions/373223/which-shell-interpreter-runs-a-script-with-no-shebang
+
+<br><br><br><br><br>
+
+### References
+
+- https://stackoverflow.com/questions/16365130/what-is-the-difference-between-usr-bin-env-bash-and-usr-bin-bash/16365367#16365367
+- https://unix.stackexchange.com/questions/373223/which-shell-interpreter-runs-a-script-with-no-shebang

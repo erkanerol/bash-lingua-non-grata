@@ -1,3 +1,5 @@
+# Scope
+
 This presentation is not 
 - BASH 101
 - A complete tutorial

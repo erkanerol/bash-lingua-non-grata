@@ -8,3 +8,8 @@
   - Apple's macOS Mojave
   - Solaris 11
 - defacto standard
+
+<br><br><br><br><br>
+
+### References
+- https://en.wikipedia.org/wiki/Bash_(Unix_shell)
