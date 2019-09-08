@@ -4,5 +4,5 @@
 
 [erkan_erol_](https://twitter.com/erkan_erol_)
 [GitHub](https://github.com/erkanerol/bash-lingua-non-grata)
-[Getting Started](/slides/intro/aboutme)
+[Getting Started](#bash-lingua-non-grata)
 

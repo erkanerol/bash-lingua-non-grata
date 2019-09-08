@@ -14,6 +14,12 @@
   - [Preferred Shebang](/slides/shell/shebang_preferred.md)
   - [Invoking](/slides/shell/invoking.md)
 
+- Bash Intro
+  - [Exit Codes](/slides/bash_intro/exit_codes.md)
+  - [Exit Codes](/slides/bash_intro/arguments.md)
+  - [Exit Codes](/slides/bash_intro/quoting.md)
+  - [Exit Codes](/slides/bash_intro/io.md)
+
 - Tips
   - [Shellchecl](/slides/tips/shellcheck.md)
   - [When not to use](/slides/tips/when_not_to_use.md)
