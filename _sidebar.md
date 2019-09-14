@@ -5,8 +5,10 @@
   - [Scope](/slides/intro/scope.md)
 
 - Shell Intro
+  - [Terminology](/slides/shell/terminology.md)
   - [Shell](/slides/shell/shell.md)
   - [Shell Scripts](/slides/shell/shell_scripts.md)
+  - [Bourne shell](/slides/shell/sh.md)
   - [Bash](/slides/shell/bash.md)
   - [Hello World](/slides/shell/hello_world.md)
   - [Shebang](/slides/shell/shebang.md)
@@ -16,9 +18,10 @@
 
 - Bash Intro
   - [Exit Codes](/slides/bash_intro/exit_codes.md)
-  - [Exit Codes](/slides/bash_intro/arguments.md)
-  - [Exit Codes](/slides/bash_intro/quoting.md)
-  - [Exit Codes](/slides/bash_intro/io.md)
+  - [Exit Code Usage](/slides/bash_intro/exit_code_usage.md)
+  - [Arguments](/slides/bash_intro/arguments.md)
+  - [Quoting](/slides/bash_intro/quoting.md)
+  - [IO](/slides/bash_intro/io.md)
 
 - Tips
   - [Shellchecl](/slides/tips/shellcheck.md)

@@ -7,7 +7,12 @@ This is a doc which is prepared for a presentation.
 
 - Knowing UNIX basics
 - Knowing programming basics
-- Knowing BASH at least a little
+- Knowing BASH a little
+
+## Cloning repo
+```
+git clone https://github.com/erkanerol/bash-lingua-non-grata.git
+```
 
 ## Main References
 
