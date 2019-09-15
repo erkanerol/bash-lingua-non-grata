@@ -22,6 +22,7 @@
   - [Variables](/slides/bash_intro/variables.md)
   - [Variable Types](/slides/bash_intro/variable_types.md)
   - [Arguments](/slides/bash_intro/arguments.md)
+  - [Variable Scopes](/slides/bash_intro/variable_scopes.md)
   - [Quoting](/slides/bash_intro/quoting.md)
   - [IO](/slides/bash_intro/io.md)
 
