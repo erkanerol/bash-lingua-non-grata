@@ -19,6 +19,8 @@
 - Bash Intro
   - [Exit Codes](/slides/bash_intro/exit_codes.md)
   - [Exit Code Usage](/slides/bash_intro/exit_code_usage.md)
+  - [Variables](/slides/bash_intro/variables.md)
+  - [Variable Types](/slides/bash_intro/variable_types.md)
   - [Arguments](/slides/bash_intro/arguments.md)
   - [Quoting](/slides/bash_intro/quoting.md)
   - [IO](/slides/bash_intro/io.md)
