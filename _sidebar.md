@@ -26,6 +26,7 @@
   - [Quoting](/slides/bash_intro/quoting.md)
   - [Quoting 2](/slides/bash_intro/quoting_in_func.md)
   - [Operators](/slides/bash_intro/operators.md)
+  - [Brackets](/slides/bash_intro/brackets.md)
 
 - Deep Dive
   - [Scopes](/slides/deep_dive/scopes.md)
