@@ -1,10 +1,9 @@
 - Intro
-
   - [About Me](/slides/intro/aboutme.md)
   - [Disclaimer](/slides/intro/disclaimer.md)
   - [Scope](/slides/intro/scope.md)
 
-- Shell Intro
+- [Shell Intro](/slides/shell/cover.md)
   - [Terminology](/slides/shell/terminology.md)
   - [Shell](/slides/shell/shell.md)
   - [Shell Scripts](/slides/shell/shell_scripts.md)
@@ -16,7 +15,7 @@
   - [Preferred Shebang](/slides/shell/shebang_preferred.md)
   - [Invoking](/slides/shell/invoking.md)
 
-- Bash Intro
+- [Bash Intro](/slides/bash_intro/cover.md)
   - [Exit Codes](/slides/bash_intro/exit_codes.md)
   - [Exit Code Usage](/slides/bash_intro/exit_code_usage.md)
   - [Variables](/slides/bash_intro/variables.md)
@@ -28,10 +27,16 @@
   - [Operators](/slides/bash_intro/operators.md)
   - [Brackets](/slides/bash_intro/brackets.md)
 
-- Deep Dive
-  - [Scopes](/slides/deep_dive/scopes.md)
+- [Daily Use](/slides/daily/cover.md)
+  - [IO](/slides/daily/io.md)
+  - [Options](/slides/daily/options.md)
+  - [Subshell](/slides/daily/subshells.md)
 
-- Tips
+- [Deep Dive](/slides/deep_dive/cover.md)
+  - [Scopes](/slides/deep_dive/scopes.md)
+  - [Processes](/slides/deep_dive/processes.md)
+
+- [Tips](/slides/tips/cover.md)
   - [Shellcheck](/slides/tips/shellcheck.md)
   - [When not to use](/slides/tips/when_not_to_use.md)
   - [When to use](/slides/tips/when_to_use.md)
