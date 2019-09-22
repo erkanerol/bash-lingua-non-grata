@@ -31,7 +31,7 @@
   - Free for commercial as well
 
 
-<a href="images/unix-like.png">Simplified history</a>
+<a href="images/unix-like.jpg">Simplified history</a>
   
 <br><br><br><br><br>
 
