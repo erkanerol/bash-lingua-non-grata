@@ -1,6 +1,6 @@
-# When not to use
+# When to use
 
-Small
+- Small
 
 
 
