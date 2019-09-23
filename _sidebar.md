@@ -29,6 +29,9 @@
 
 - [Daily Use](/slides/daily/cover.md)
   - [IO](/slides/daily/io.md)
+  - [Stderr](/slides/daily/io_with_err.md)
+  - [IO Redirections](/slides/daily/io_redirections.md)
+  - [File Descriptors](/slides/daily/file_descriptors.md)
   - [Pipes](/slides/daily/pipes.md)
   - [Subshell](/slides/daily/subshells.md)
   - [Sourcing](/slides/daily/sourcing.md)
