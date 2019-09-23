@@ -1,5 +1,4 @@
-# IO
-
+# Sourcing
 
 [filename](../../examples/scopes/scopes.sh ':include :type=code bash')
 

@@ -29,8 +29,10 @@
 
 - [Daily Use](/slides/daily/cover.md)
   - [IO](/slides/daily/io.md)
-  - [Options](/slides/daily/options.md)
+  - [Pipes](/slides/daily/pipes.md)
   - [Subshell](/slides/daily/subshells.md)
+  - [Sourcing](/slides/daily/sourcing.md)
+  - [Options](/slides/daily/options.md)
 
 - [Deep Dive](/slides/deep_dive/cover.md)
   - [Scopes](/slides/deep_dive/scopes.md)
