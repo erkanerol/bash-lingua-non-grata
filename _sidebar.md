@@ -23,7 +23,7 @@
   - [Arguments](/slides/bash_intro/arguments.md)
   - [Functions](/slides/bash_intro/functions.md)
   - [Quoting](/slides/bash_intro/quoting.md)
-  - [Quoting 2](/slides/bash_intro/quoting_in_func.md)
+  - [Quoting Everything](/slides/bash_intro/quoting_in_func.md)
   - [Operators](/slides/bash_intro/operators.md)
   - [Brackets](/slides/bash_intro/brackets.md)
 
