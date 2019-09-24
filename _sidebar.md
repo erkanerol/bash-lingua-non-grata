@@ -34,6 +34,8 @@
   - [File Descriptors](/slides/daily/file_descriptors.md)
   - [Pipes](/slides/daily/pipes.md)
   - [Subshell](/slides/daily/subshells.md)
+  - [Grouping](/slides/daily/grouping.md)
+  - [Command Substitution](/slides/daily/command_substitution.md)
   - [Sourcing](/slides/daily/sourcing.md)
   - [Options](/slides/daily/options.md)
 

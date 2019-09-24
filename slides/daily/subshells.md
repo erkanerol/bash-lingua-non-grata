@@ -1,8 +1,9 @@
 # Subshells
 
--  A subshell is a child process launched by a shell (or shell script).
--  Placing a list of commands between parentheses causes a subshell environment to be created
 -  `(list)`
+-  A subshell is a child process launched by a shell (or shell script).
+-  Placing a list of commands between parentheses causes a subshell environment to be created.
+
 
 [filename](../../examples/subshell/subshell.sh ':include :type=code bash')
 
