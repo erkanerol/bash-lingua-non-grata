@@ -42,6 +42,7 @@
   - [Processes](/slides/deep_dive/processes.md)
 
 - [Tips](/slides/tips/cover.md)
+  - [Sensitive Data](/slides/deep_dive/sensitive.md)
   - [Shellcheck](/slides/tips/shellcheck.md)
   - [When not to use](/slides/tips/when_not_to_use.md)
   - [When to use](/slides/tips/when_to_use.md)
