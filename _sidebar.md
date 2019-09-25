@@ -37,9 +37,11 @@
   - [Grouping](/slides/daily/grouping.md)
   - [Command Substitution](/slides/daily/command_substitution.md)
   - [Sourcing](/slides/daily/sourcing.md)
-  - [Options](/slides/daily/options.md)
+
+- [Second Part](/slides/deep_dive/second.md)
 
 - [Deep Dive](/slides/deep_dive/cover.md)
+  - [Options](/slides/daily/options.md)
   - [Scopes](/slides/deep_dive/scopes.md)
   - [Processes](/slides/deep_dive/processes.md)
   - [Sensitive Data](/slides/deep_dive/sensitive.md)
