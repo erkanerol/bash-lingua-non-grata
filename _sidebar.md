@@ -43,6 +43,7 @@
   - [Scopes](/slides/deep_dive/scopes.md)
   - [Processes](/slides/deep_dive/processes.md)
   - [Sensitive Data](/slides/deep_dive/sensitive.md)
+  - [Traps](/slides/deep_dive/traps.md)
 
 - [Tips](/slides/tips/cover.md)
   - [Shellcheck](/slides/tips/shellcheck.md)
@@ -50,3 +51,4 @@
   - [When to use](/slides/tips/when_to_use.md)
   - [Idempotency](/slides/tips/idempotency.md)
   - [Consumability](/slides/tips/consumability.md)
+  - [Testing](/slides/tips/testing.md)
