@@ -4,11 +4,9 @@
 
 function print_processes(){
     local caller="$1"
-    echo -e "\n"
-    echo "$caller ->> START"
+    echo -e "\n$caller ->> START"
     ps -ef |grep virtuous_lib |grep -v 'grep'
-    echo "$caller ->> END"
-    echo -e "\n"
+    echo -e "$caller ->> END\n"
 }
 
 function log_info() {

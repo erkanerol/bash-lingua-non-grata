@@ -4,11 +4,9 @@
 
 function print_processes(){
     local caller="$1"
-    echo -e "\n"
-    echo "$caller ->> START"
+    echo -e "\n$caller ->> START"
     ps -ef |grep bad_lib |grep -v 'grep'
-    echo "$caller ->> END"
-    echo -e "\n"
+    echo -e "\n$caller ->> END"
 }
 
 function log_info() {
