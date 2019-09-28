@@ -9,20 +9,10 @@ This is a doc which is prepared for a presentation.
 - Knowing programming basics
 - Knowing BASH a little
 
-## Cloning repo
+## Cloning repo for demos
 ```
 git clone https://github.com/erkanerol/bash-lingua-non-grata.git
 ```
-
-## Running Local
-- Install docsify-cli: https://docsify.js.org/#/quickstart
-
-- Serve
-```
-docsify serve
-```
-
-- Access localhost:3000
 
 ## Main References
 
