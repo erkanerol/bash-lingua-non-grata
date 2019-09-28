@@ -1,4 +1,4 @@
-- Intro
+- [Intro](/slides/intro/cover.md)
   - [About Me](/slides/intro/aboutme.md)
   - [Disclaimer](/slides/intro/disclaimer.md)
   - [Scope](/slides/intro/scope.md)
@@ -38,8 +38,6 @@
   - [Command Substitution](/slides/daily/command_substitution.md)
   - [Sourcing](/slides/daily/sourcing.md)
 
-- [Second Part](/slides/deep_dive/second.md)
-
 - [Deep Dive](/slides/deep_dive/cover.md)
   - [Options](/slides/daily/options.md)
   - [Scopes](/slides/deep_dive/scopes.md)
@@ -54,3 +52,5 @@
   - [Idempotency](/slides/tips/idempotency.md)
   - [Consumability](/slides/tips/consumability.md)
   - [Testing](/slides/tips/testing.md)
+
+- [Closing](/slides/closing/cover.md)
