@@ -1,5 +1,5 @@
 # Shellcheck
 
-
-https://github.com/koalaman/shellcheck
+- a static analysis tool for shell scripts 
+- use https://github.com/koalaman/shellcheck
 

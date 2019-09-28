@@ -40,12 +40,16 @@
 
 - [Deep Dive](/slides/deep_dive/cover.md)
   - [Options](/slides/deep_dive/options.md)
+  - [NounSet Option](/slides/deep_dive/nounset.md)
+  - [ErrExit Option](/slides/deep_dive/errexit.md)
+  - [Pipefail Option](/slides/deep_dive/pipefail.md)
   - [Scopes](/slides/deep_dive/scopes.md)
   - [Processes](/slides/deep_dive/processes.md)
   - [Sensitive Data](/slides/deep_dive/sensitive.md)
   - [Traps](/slides/deep_dive/traps.md)
 
 - [Tips](/slides/tips/cover.md)
+  - [Default Options](/slides/tips/options.md)
   - [Shellcheck](/slides/tips/shellcheck.md)
   - [When not to use](/slides/tips/when_not_to_use.md)
   - [When to use](/slides/tips/when_to_use.md)
