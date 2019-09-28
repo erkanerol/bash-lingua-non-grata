@@ -39,7 +39,7 @@
   - [Sourcing](/slides/daily/sourcing.md)
 
 - [Deep Dive](/slides/deep_dive/cover.md)
-  - [Options](/slides/daily/options.md)
+  - [Options](/slides/deep_dive/options.md)
   - [Scopes](/slides/deep_dive/scopes.md)
   - [Processes](/slides/deep_dive/processes.md)
   - [Sensitive Data](/slides/deep_dive/sensitive.md)
