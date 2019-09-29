@@ -8,7 +8,7 @@
 
 #### Demo
 ```
-bash ./examples/pipes/pipes.sh
+bash ./examples/pipes/pipes.sh 1
 ```
 
 <br><br><br><br><br>

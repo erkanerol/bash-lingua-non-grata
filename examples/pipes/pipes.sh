@@ -31,3 +31,9 @@ if [[ "${example_id}" == "5" ]]; then
     grep '3 months ago' < "$SCRIPT_DIR/docker_images.output" | cut -d ' ' -f1 | sort -u
     exit
 fi
+
+if [[ "${example_id}" == "6" ]]; then
+    # The best
+    grep '3 months ago' "$SCRIPT_DIR/docker_images.output" | cut -d ' ' -f1 | sort -u
+    exit
+fi
