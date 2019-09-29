@@ -2,7 +2,7 @@
 
 - If you need
     - heavy-duty math operations
-    - especially floating point arithmetic
+    - floating point arithmetic
     - arbitrary precision calculations
     - complex numbers 
     - native support for multi-dimensional arrays
@@ -23,11 +23,7 @@
 
 - Extensive file operations required (Bash is limited to serial file access, and that only in a particularly clumsy and inefficient line-by-line fashion.)
 
-
-
-
 - Proprietary, closed-source applications (Shell scripts put the source code right out in the open for all the world to see.)
-
 
 <br><br><br><br><br>
 
