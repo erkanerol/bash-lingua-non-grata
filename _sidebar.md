@@ -57,6 +57,4 @@
   - [Idempotency](/slides/tips/idempotency.md)
   - [Consumability](/slides/tips/consumability.md)
   - [WIP - Testing](/slides/tips/testing.md)
-  - [WIP - Sensitive Data](/slides/tips/sensitive.md)
-  - [WIP - Eval](/slides/tips/eval.md)
 - [Closing](/slides/closing/cover.md)
