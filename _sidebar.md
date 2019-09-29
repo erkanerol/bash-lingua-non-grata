@@ -45,8 +45,8 @@
   - [ErrExit Option](/slides/deep_dive/errexit.md)
   - [Pipefail Option](/slides/deep_dive/pipefail.md)
   - [Capital E Option](/slides/deep_dive/capital_e.md)
-  - [WIP - Scopes](/slides/deep_dive/scopes.md)
-  - [WIP - Processes](/slides/deep_dive/processes.md)
+  - [Scopes](/slides/deep_dive/scopes.md)
+  - [Processes](/slides/deep_dive/processes.md)
   - [WIP - Background Process](/slides/deep_dive/background_process.md)
 
 - [Tips](/slides/tips/cover.md)

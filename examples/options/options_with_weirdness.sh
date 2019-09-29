@@ -4,10 +4,10 @@ set -e
 
 # Assumes -e option
 function check_prerequisites(){
-    echo "Checking nonexisting binary"
+    echo "Checking nonexisting command"
     command -v nonexisting
 
-    echo "Checking docker"
+    echo "Checking docker command"
     command -v docker
 
     echo "Everything is ok!"
