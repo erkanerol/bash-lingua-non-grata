@@ -46,8 +46,8 @@
   - [Pipefail Option](/slides/deep_dive/pipefail.md)
   - [Capital E Option](/slides/deep_dive/capital_e.md)
   - [Scopes](/slides/deep_dive/scopes.md)
-  - [Processes](/slides/deep_dive/processes.md)
-  - [WIP - Background Process](/slides/deep_dive/background_process.md)
+  - [Recap: Processes](/slides/deep_dive/processes.md)
+  - [Background Process](/slides/deep_dive/background_process.md)
 
 - [Tips](/slides/tips/cover.md)
   - [When not to use](/slides/tips/when_not_to_use.md)
@@ -56,5 +56,6 @@
   - [Shellcheck](/slides/tips/shellcheck.md)
   - [Idempotency](/slides/tips/idempotency.md)
   - [Consumability](/slides/tips/consumability.md)
+  - [Security](/slides/tips/security.md)
   - [WIP - Testing](/slides/tips/testing.md)
 - [Closing](/slides/closing/cover.md)
