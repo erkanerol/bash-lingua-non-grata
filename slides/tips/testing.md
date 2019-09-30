@@ -1,15 +1,15 @@
 # Testing
 
-- https://github.com/bats-core/bats-core
 - https://github.com/sstephenson/bats
+- https://github.com/ztombol/bats-assert
 
+[filename](../../examples/testing/main.bash ':include :type=code bash')
 
-
-[filename](../../examples/scopes/scopes.sh ':include :type=code bash')
+[filename](../../examples/testing/addition-test.bats ':include :type=code bash')
 
 #### Demo
 ```
-bash ./examples/scopes/scopes.sh
+./test/libs/bats/bin/bats ./examples/testing/addition-test.bats
 ```
 
 <br><br><br><br><br>
