@@ -1,7 +1,10 @@
 # Preferred Shebang for Bash
 
+- In some situations, the first may be preferred (like running python scripts with multiple versions of python, without having to rework the executable line). 
+- But in situations where security is the focus, the latter would be preferred, as it limits code injection possibilities.
+
 ```bash
-#!/usr/bin/env bash ->> Preferred
+#!/usr/bin/env bash
 ```
 
 ```bash

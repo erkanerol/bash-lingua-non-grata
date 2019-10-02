@@ -25,7 +25,7 @@ type case
 
 - A sub-process is created by the parent shell by making the system calls `fork` followed by `exec`
 - A sub-process executes independently of the parent process.
-- A child-process gets a copy of all of the environment variables of the parent shell. 
+- A child-process gets a copy of all of the `environment variables` of the parent shell. 
 - Environment variables are those variables that are declared with the export keyword. 
 
 #### Subshell
